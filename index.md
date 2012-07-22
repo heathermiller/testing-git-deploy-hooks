@@ -6,3 +6,4 @@
 If this page is visible at heather.miller.am/githooks/index.html, then my task was successful!
 
 <p><b>Yay! It was automatically generated!!</b></p>
+<p><b>Hopefully third time's a charm...</b></p>
