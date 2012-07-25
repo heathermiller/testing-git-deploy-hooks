@@ -26,3 +26,4 @@ This is a list
 1. with point number 1
 2. and point number 2
 3. and point number 3
+4. and finally, point 4
