@@ -28,3 +28,4 @@ This is a list
 3. and point number 3
 4. and finally, point 4
 5. Saturday
+6. Saturday
